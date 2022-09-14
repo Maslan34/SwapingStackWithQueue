@@ -86,7 +86,7 @@ int main(int argc, char *argv[]) {
 	initialize(&queue1);
 	
 	
-	//REPLAYED FOR NOT PRINTING REVERSLY LAST NAME
+	//REPEATED FOR NOT PRINTING REVERSLY LAST NAME
 		control=pop(&stack1);
 		while(control!='X')
 		{
